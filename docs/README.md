@@ -70,7 +70,10 @@ Navigate to the specific guides for detailed workflows, checklists, and template
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** — Identify, assess, mitigate, and monitor risks; manage stakeholder communication and escalation paths
 - **[Release & Deployment Guide](octoacme-release-and-deployment.md)** — Standardize releases by type, pre-release requirements, deployment checklist, rollback procedures
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Run retrospectives, capture learnings, track and measure improvements
-- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed role definitions, responsibilities, goals, and communication patterns for Developers, Product Managers, and Project Managers
+- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed role definitions, responsibilities, goals, and communication patterns for Developers, Product Managers, Project Managers, Product Owners, QA Leads, Business Analysts, and Agile Coaches
+- **[Role-Responsibility Checklist](octoacme-role-responsibility-checklist.md)** — Quick-reference checklist to ensure all project responsibilities are assigned across roles and phases
+- **[Stakeholder Communication Template](octoacme-stakeholder-communication-template.md)** — Reusable templates for weekly status updates, milestone notices, escalations, and release announcements
+- **[QA & Release Readiness Checklist](octoacme-qa-release-readiness-checklist.md)** — End-to-end checklist for QA sign-off and release readiness, including defect management and deployment approvals
 
 ---
 
